@@ -1,0 +1,17 @@
+:root{
+    /*? backgrounds */
+
+    --LMbackground1: #eee;
+    --LMbackground2: #eee;
+    --LMbackground3: #eee;
+    --LMbackground4: #eee;
+
+    /*? colors */
+
+    /*? fonts */
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
