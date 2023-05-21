@@ -1,3 +1,3 @@
 # MRCE
 <b>MyReadyCssElements</b>
-Small project with ready css elements, colors, fonts and more
+<i>Small project with ready css elements, colors, fonts and more</i>
