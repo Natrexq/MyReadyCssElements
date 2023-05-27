@@ -1,4 +1,6 @@
 
+// ! IMPORTANT! It's first version of script. It must only work. Soon i will update it
+
 let faqButton1 = document.getElementById("faq-but1");
 let faqDetails1 = document.getElementById("faq-del1");
 
