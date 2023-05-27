@@ -127,22 +127,23 @@ body{
 
 
 .theme{
-    width: 85%;
+    width: 100%;
     height: 60vh;
     padding-top: 20vh;
     padding-bottom: 20vh;
-    padding-inline: 7.5%;
     background-color: 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    /* gap: 3rem; */
 }
         .theme-ilustration{
-            margin: 3rem;
             min-width: 20rem;
             width: 40rem;
             min-height: 30vh;
-                height: 30rem;
+            max-width: 80vw;
+            height: 40vh;
             box-shadow: -10px 10px 10px #00000030;
             border-radius: 40px;
             opacity: 85%;
@@ -153,12 +154,12 @@ body{
             display: grid;
             place-items: center;
             transition: background-size .1s linear;
-            
+            margin: 0;
         }
           
     
         .theme-description{
-            margin: 3.5rem;
+            width: fit-content;
             padding: 1rem;
             display: flex;
             flex-direction: column;
@@ -432,4 +433,4 @@ body{
                 background-color: red;
                 
             } */
-  }
+  
